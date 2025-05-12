@@ -1,0 +1,1 @@
+# dedicat-checker
